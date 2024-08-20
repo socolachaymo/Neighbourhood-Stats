@@ -10,16 +10,17 @@ Neighbourhood-Stats is a web application designed to visualize crime statistics 
 
 ### Screenshots
 Check out the app in action with some sample images below:
-+ Top 5 neighborhoods with the highest crime rate
+- Top 5 neighborhoods with the highest crime rate
 <p align='center'>
 <img src='images/top5.png'/>
 </p>
+
 - Interactive Crime Rate Map of Toronto Neighborhoods
 <p align='center'>
 <img src='images/map.png'/>
 </p>
 
-#### Getting Started
+### Getting Started
 To run the app, you'll need Python installed along with the necessary libraries listed in the requirements.txt file.
 
 
